@@ -1,0 +1,9 @@
+SQLAlchemy
+asyncpg
+aiohttp
+Werkzeug
+pydantic==1.*
+pydantic[email]
+python-dotenv
+isort
+
